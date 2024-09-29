@@ -1,0 +1,14 @@
+[ 2024-09-26 17:52:26,431 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-09-26 17:52:26,431 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-09-26 17:52:27,509 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-26 17:52:27,514 ] 224 werkzeug - INFO -  * Debugger PIN: 604-727-536
+[ 2024-09-26 17:55:19,895 ] 224 werkzeug - INFO -  * Detected change in 'E:\\New folder\\Lib\\site-packages\\IPython\\display.py', reloading
+[ 2024-09-26 17:55:19,928 ] 224 werkzeug - INFO -  * Detected change in 'e:\\New folder\\Lib\\site-packages\\IPython\\display.py', reloading
+[ 2024-09-26 17:55:19,929 ] 224 werkzeug - INFO -  * Detected change in 'E:\\New folder\\Lib\\site-packages\\IPython\\core\\display_functions.py', reloading
+[ 2024-09-26 17:55:19,930 ] 224 werkzeug - INFO -  * Detected change in 'e:\\New folder\\Lib\\site-packages\\IPython\\core\\display_functions.py', reloading
+[ 2024-09-26 17:55:19,992 ] 224 werkzeug - INFO -  * Detected change in 'E:\\New folder\\Lib\\site-packages\\IPython\\lib\\display.py', reloading
+[ 2024-09-26 17:55:19,993 ] 224 werkzeug - INFO -  * Detected change in 'e:\\New folder\\Lib\\site-packages\\IPython\\lib\\display.py', reloading
+[ 2024-09-26 17:55:20,005 ] 224 werkzeug - INFO -  * Detected change in 'e:\\New folder\\Lib\\site-packages\\flask\\__init__.py', reloading
+[ 2024-09-26 17:55:20,005 ] 224 werkzeug - INFO -  * Detected change in 'E:\\New folder\\Lib\\site-packages\\flask\\__init__.py', reloading
+[ 2024-09-26 17:55:20,069 ] 224 werkzeug - INFO -  * Detected change in 'E:\\New folder\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-09-26 17:55:20,070 ] 224 werkzeug - INFO -  * Detected change in 'e:\\New folder\\Lib\\site-packages\\flask\\app.py', reloading

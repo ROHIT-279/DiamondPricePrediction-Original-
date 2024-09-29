@@ -1,0 +1,4 @@
+[ 2024-09-25 20:45:57,525 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-09-25 20:45:57,526 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-09-25 20:45:58,713 ] 29 root - INFO - DATA Ingection method starts
+[ 2024-09-25 20:45:58,721 ] 51 root - INFO - ERROR OCCURED IN DTA INGECTION CONFIG

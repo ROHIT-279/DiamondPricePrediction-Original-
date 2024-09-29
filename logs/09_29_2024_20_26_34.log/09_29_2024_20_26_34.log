@@ -1,0 +1,10 @@
+[ 2024-09-29 20:26:34,939 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-09-29 20:26:34,939 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-09-29 20:26:36,037 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 20:26:36,042 ] 224 werkzeug - INFO -  * Debugger PIN: 390-884-290
+[ 2024-09-29 20:26:42,903 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 20:26:42] "GET / HTTP/1.1" 200 -
+[ 2024-09-29 20:26:53,562 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 20:26:53] "GET /predict HTTP/1.1" 200 -
+[ 2024-09-29 20:27:07,326 ] 70 root - INFO - Dataframe Gathered
+[ 2024-09-29 20:27:07,477 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 20:27:07] "POST /predict HTTP/1.1" 200 -
+[ 2024-09-29 20:46:47,372 ] 224 werkzeug - INFO -  * Detected change in 'e:\\Diamond_price\\Diamon_price_prediction5.0\\src\\components\\data_transformation.py', reloading
+[ 2024-09-29 20:46:47,388 ] 224 werkzeug - INFO -  * Detected change in 'E:\\Diamond_price\\Diamon_price_prediction5.0\\src\\components\\data_transformation.py', reloading
